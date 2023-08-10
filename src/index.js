@@ -10,7 +10,7 @@ import { App } from 'App';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename="/taskpro">
+      <BrowserRouter basename="/react_node_bc_50_valpvf">
         <App />
       </BrowserRouter>
     </Provider>
