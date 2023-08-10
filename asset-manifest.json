@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_bc_50_valpvf/static/css/main.930a7663.css",
-    "main.js": "/react_node_bc_50_valpvf/static/js/main.31f1317d.js",
+    "main.js": "/react_node_bc_50_valpvf/static/js/main.21dd1756.js",
     "static/js/104.483a044f.chunk.js": "/react_node_bc_50_valpvf/static/js/104.483a044f.chunk.js",
     "static/js/596.d26b0917.chunk.js": "/react_node_bc_50_valpvf/static/js/596.d26b0917.chunk.js",
     "static/css/877.cf47fec5.chunk.css": "/react_node_bc_50_valpvf/static/css/877.cf47fec5.chunk.css",
@@ -112,7 +112,7 @@
     "static/media/chevron-down-blue.svg": "/react_node_bc_50_valpvf/static/media/chevron-down-blue.eb5cf8ea97b6f9092b7edaa5d0bc9e28.svg",
     "static/media/chevron-down.svg": "/react_node_bc_50_valpvf/static/media/chevron-down.a7e838341a62d08b5ab623ba41fc51c2.svg",
     "main.930a7663.css.map": "/react_node_bc_50_valpvf/static/css/main.930a7663.css.map",
-    "main.31f1317d.js.map": "/react_node_bc_50_valpvf/static/js/main.31f1317d.js.map",
+    "main.21dd1756.js.map": "/react_node_bc_50_valpvf/static/js/main.21dd1756.js.map",
     "104.483a044f.chunk.js.map": "/react_node_bc_50_valpvf/static/js/104.483a044f.chunk.js.map",
     "596.d26b0917.chunk.js.map": "/react_node_bc_50_valpvf/static/js/596.d26b0917.chunk.js.map",
     "877.cf47fec5.chunk.css.map": "/react_node_bc_50_valpvf/static/css/877.cf47fec5.chunk.css.map",
@@ -124,6 +124,6 @@
   },
   "entrypoints": [
     "static/css/main.930a7663.css",
-    "static/js/main.31f1317d.js"
+    "static/js/main.21dd1756.js"
   ]
 }
